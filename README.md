@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on web application for University Honors Capstone Project
+- 🔭 I’m currently working on a web application for University Honors Capstone Project
 - 📫 How to reach me: etran151@ucr.edu
 
 
